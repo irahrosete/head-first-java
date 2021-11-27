@@ -1,4 +1,4 @@
-package exercises;
+package chapter1;
 
 public class BeerSong {
     public static void main (String[] args) {
